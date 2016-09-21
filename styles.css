@@ -8,4 +8,21 @@ h1 {
 }
 body {
     background-image: url("images/greenFelt.jpg");
+    color: white;
+    font-size: 50px;
+    font-family: sans-serif;
+}
+.player {
+    height: 100px;
+    width: 100px;
+    margin-right: 50px;
+    margin-left: 20px;
+}
+.cards {
+    margin-right: 20px;
+    display: inline-block;
+}
+.winner {
+    text-align: center;
+    font-size: 55;
 }

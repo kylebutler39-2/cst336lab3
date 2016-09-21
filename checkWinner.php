@@ -4,21 +4,16 @@
 
 function winner($p1, $p2, $p3, $p4)
 {
+    $tempWinner = 0;
     $arrayName = array($p1, $p2, $p3, $p4);
-    arsort($arrayName);
-    
-    
+
     for($i = 0 ; $i < 4; $i++)
     {
-        if($arrayName[i] == 42)
+        if($arrayName[$i] <= 42 && $arrayName[$i] > $tempWinner)
         {
-            return(42);
+            $tempWinner = $arrayName[$i];
         }
-        else if($arrayName[i] < 42)
-        {
-            return $arrayName[i];
-        }
-        
     }
+    return $tempWinner;
 }
 ?>

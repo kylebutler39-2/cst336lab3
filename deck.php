@@ -1,14 +1,16 @@
 <?php
-    $deck = array('clubs/1.png', 'clubs/2.png', 'clubs/3.png', 'clubs/4.png', 'clubs/5.png',
-    'clubs/6.png', 'clubs/7.png', 'clubs/8.png', 'clubs/9.png', 'clubs/10.png',
-    'clubs/11.png', 'clubs/12.png', 'clubs/13.png',
-    'diamonds/1.png', 'diamonds/2.png', 'diamonds/3.png', 'diamonds/4.png',
-    'diamonds/5.png', 'diamonds/6.png', 'diamonds/7.png', 'diamonds/8.png', 'diamonds/9.png',
-    'diamonds/10.png', 'diamonds/11.png', 'diamonds/12.png', 'diamonds/13.png',
-    'hearts/1.png', 'hearts/2.png', 'hearts/3.png', 'hearts/4.png',
-    'hearts/5.png', 'hearts/6.png', 'hearts/7.png', 'hearts/8.png', 'hearts/9.png',
-    'hearts/10.png', 'hearts/11.png', 'hearts/12.png', 'hearts/13.png',
-    'spades/1.png', 'spades/2.png', 'spades/3.png', 'spades/4.png',
-    'spades/5.png', 'spades/6.png', 'spades/7.png', 'spades/8.png', 'spades/9.png',
-    'spades/10.png', 'spades/11.png', 'spades/12.png', 'spades/13.png');
+    $deck = array('images/cards/clubs/1.png', 'images/cards/clubs/2.png', 'images/cards/clubs/3.png', 'images/cards/clubs/4.png', 'images/cards/clubs/5.png',
+    'images/cards/clubs/6.png', 'images/cards/clubs/7.png', 'images/cards/clubs/8.png', 'images/cards/clubs/9.png', 'images/cards/clubs/10.png',
+    'images/cards/clubs/11.png', 'images/cards/clubs/12.png', 'images/cards/clubs/13.png',
+    'images/cards/diamonds/1.png', 'images/cards/diamonds/2.png', 'images/cards/diamonds/3.png', 'images/cards/diamonds/4.png',
+    'images/cards/diamonds/5.png', 'images/cards/diamonds/6.png', 'images/cards/diamonds/7.png', 'images/cards/diamonds/8.png', 'images/cards/diamonds/9.png',
+    'images/cards/diamonds/10.png', 'images/cards/diamonds/11.png', 'images/cards/diamonds/12.png', 'images/cards/diamonds/13.png',
+    'images/cards/hearts/1.png', 'images/cards/hearts/2.png', 'images/cards/hearts/3.png', 'images/cards/hearts/4.png',
+    'images/cards/hearts/5.png', 'images/cards/hearts/6.png', 'images/cards/hearts/7.png', 'images/cards/hearts/8.png', 'images/cards/hearts/9.png',
+    'images/cards/hearts/10.png', 'images/cards/hearts/11.png', 'images/cards/hearts/12.png', 'images/cards/hearts/13.png',
+    'images/cards/spades/1.png', 'images/cards/spades/2.png', 'images/cards/spades/3.png', 'images/cards/spades/4.png',
+    'images/cards/spades/5.png', 'images/cards/spades/6.png', 'images/cards/spades/7.png', 'images/cards/spades/8.png', 'images/cards/spades/9.png',
+    'images/cards/spades/10.png', 'images/cards/spades/11.png', 'images/cards/spades/12.png', 'images/cards/spades/13.png');
+
+    $players = array('images/players/elephant.png', 'images/players/owl.png', 'images/players/penguin.png', 'images/players/pig.png');
 ?>
